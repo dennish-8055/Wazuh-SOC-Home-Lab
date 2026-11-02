@@ -57,7 +57,7 @@ The project provided practical experience with endpoint monitoring, event collec
 | Component     | Configuration                 |
 | ------------- | ----------------------------- |
 | Host OS       | Windows 11                    |
-| Processor     | Intel Core i5-1135G7          |
+| Processor     | Intel Core i5          |
 | RAM           | 16 GB                         |
 | Storage       | 1 TB SSD                      |
 | SIEM Platform | Wazuh 4.14.9                  |
